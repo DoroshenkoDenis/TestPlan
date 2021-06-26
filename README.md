@@ -73,7 +73,7 @@ ___
   
 ### **Предусловие 4 "Авторизованный пользователь" / "Modalbox":**
 * Перейти к форме записи Modalbox
-![ModalBoxRegistratedUser](https://user-images.githubusercontent.com/47859608/123509448-aa890400-d686-11eb-83ba-37b2a2879c70.png)
+![ModalBoxRegistratedUser](https://user-images.githubusercontent.com/47859608/123509960-b9bd8100-d689-11eb-8436-13e2b809c495.png)
 **Способы перехода**
   * Перейти на сайт [Нетология](https://netology.ru/);    
   * В Header нажать кнопку "Войти"
