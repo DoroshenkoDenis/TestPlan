@@ -11,7 +11,7 @@
 ### Сценарий - 1: "Неавторизованный пользователь"  
 **Предусловие:**
 * Перейти на сайт [Нетология](https://netology.ru/);
-* Перейти к форме регистрации ![Image of RegisrationCard](https://octodex.github.com/images/yaktocat.png)
+* Перейти к форме регистрации ![Image of RegisrationCard](https://user-images.githubusercontent.com/47859608/123507805-96400980-d67c-11eb-975f-b3ddc3010052.png)
 * 
 * Способы перехода
 
