@@ -63,7 +63,6 @@ ___
   * В контейнере "Гарантия возврата денег" нажать "Записаться"
 
 ### **Предусловие 3 "Авторизованный пользователь" / "RegisrationCard":**
-**Предусловие:**
 * Перейти к форме записи RegisrationCard
 ![RegisrationCardRegistratedUser](https://user-images.githubusercontent.com/47859608/123509441-a0ff9c00-d686-11eb-9360-d8dc01bc8a03.png)
 **Способы перехода**
@@ -73,7 +72,6 @@ ___
   * Остальные шаги аналогично "Предусловие 1"
   
 ### **Предусловие 4 "Авторизованный пользователь" / "Modalbox":**
-**Предусловие:**
 * Перейти к форме записи Modalbox
 ![ModalBoxRegistratedUser](https://user-images.githubusercontent.com/47859608/123509448-aa890400-d686-11eb-83ba-37b2a2879c70.png)
 **Способы перехода**
