@@ -9,18 +9,18 @@
 
 ## Перечень автоматизируемых сценариев 
 ### Сценарий - 1: "Неавторизованный пользователь"  
-**Предусловие 1:**
+**Предусловие "RegisrationCard":**
 * Перейти на сайт [Нетология](https://netology.ru/);
 * Перейти к странице специальности
-* Перейти к форме записи 
-![Image of RegisrationCard](https://user-images.githubusercontent.com/47859608/123507805-96400980-d67c-11eb-975f-b3ddc3010052.png)
+* Перейти к форме записи RegisrationCard  
+![Image of RegisrationCard](https://user-images.githubusercontent.com/47859608/123507805-96400980-d67c-11eb-975f-b3ddc3010052.png)  
 Способы перехода
 
-**Предусловие 2:**
+**Предусловие "Modalbox":**
 * Перейти на сайт [Нетология](https://netology.ru/);
 * Перейти к странице специальности
-* Перейти к форме записи 
-![Image of Modalbox](https://user-images.githubusercontent.com/47859608/123507946-9a205b80-d67d-11eb-8ed3-11bfb7df2d61.png)
+* Перейти к форме записи   
+![Image of Modalbox](https://user-images.githubusercontent.com/47859608/123507946-9a205b80-d67d-11eb-8ed3-11bfb7df2d61.png)  
 Способы перехода
 
 
@@ -146,5 +146,5 @@ Automation QA Engineer - 1
 * Баг-репорты - 1 час;
 * Подготовка отчета о тестировании - 2 часа;
 * Подготовка отчета о проделанной работе - 1 час.
------------------------------------------------
+--
 * **Итого:** 16 часов
